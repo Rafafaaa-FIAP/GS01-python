@@ -32,6 +32,4 @@ Este projeto utilizou as seguintes tecnologias:
 Para utilização do código é necessário uma máquina com [Python](https://www.python.org/) instalado, assim como um compilador para rodar o código.
 
 ## :video_camera: Vídeo Explicativo
-Veja o vídeo explicativo
-
-[![video]()]()
+Veja o vídeo explicativo clicando [aqui](https://youtu.be/b-OS9fHBYW0).
