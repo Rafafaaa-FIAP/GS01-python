@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Uso">Uso</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desktop_computer-Vídeo-Explicativo">Vídeo Explicativo</a>
+  <a href="#video_camera-Vídeo-Explicativo">Vídeo Explicativo</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologist-Integrantes">Integrantes</a>
 </p>
