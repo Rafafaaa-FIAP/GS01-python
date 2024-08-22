@@ -1,5 +1,4 @@
-<h1 align="center">Global Solution - 1º Semestre - 1º Ano - 1ESPR</h1>
-<h2 align="center">Rafael Cristofali - RM553521</h2>
+<h1 align="center">Global Solution 01 - Python</h1>
 
 <hr/>
 
@@ -13,6 +12,8 @@
   <a href="#desktop_computer-Uso">Uso</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Vídeo-Explicativo">Vídeo Explicativo</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologist-Integrantes">Integrantes</a>
 </p>
 
 <hr/>
@@ -29,7 +30,10 @@ Este projeto utilizou as seguintes tecnologias:
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :desktop_computer: Uso
-Para utilização do código é necessário uma máquina com [Python](https://www.python.org/) instalado, assim como um compilador para rodar o código.
+Para utilização do código é necessário uma máquina com Python instalado, assim como um compilador para rodar o código.
 
 ## :video_camera: Vídeo Explicativo
 Veja o vídeo explicativo clicando [aqui](https://youtu.be/b-OS9fHBYW0).
+
+## :technologist: Integrantes
+* RM 553521 - Rafael Cristofali
